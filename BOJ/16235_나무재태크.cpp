@@ -23,7 +23,7 @@ int answer = 0;
 int main(void) {
 	printf("software engineering homework test1");
 	//freopen("input.txt", "r", stdin);
-	printf("user1 test");
+	printf("test user2");
 	scanf("%d %d %d", &N, &M, &K);
 	for (int i = 1; i <= N; i++) {
 		for (int j = 1; j <= N; j++) {
